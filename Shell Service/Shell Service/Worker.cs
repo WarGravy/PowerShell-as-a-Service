@@ -72,7 +72,7 @@ namespace Shell_Service
             p.BeginOutputReadLine();
 
             // Wait for the completion of the script startup code,     // which launches the -Service instance.
-            while (!stoppingToken.IsCancellationRequested && !p.HasExited) { };
+            while (!stoppingToken.IsCancellationRequested && !p.HasExited) { Thread.Sleep(1000); };
             p.Kill();
             _logger.LogInformation(output.ToString());
             _logger.LogCritical(errors.ToString());

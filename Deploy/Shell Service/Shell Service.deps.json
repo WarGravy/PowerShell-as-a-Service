@@ -11,149 +11,161 @@
         "dependencies": {
           "Microsoft.Extensions.Hosting": "3.1.5",
           "Microsoft.Extensions.Hosting.WindowsServices": "3.1.5",
-          "runtimepack.Microsoft.NETCore.App.Runtime.win-x64": "3.1.1"
+          "runtimepack.Microsoft.NETCore.App.Runtime.win-x64": "3.1.12"
         },
         "runtime": {
           "Shell Service.dll": {}
         }
       },
-      "runtimepack.Microsoft.NETCore.App.Runtime.win-x64/3.1.1": {
+      "runtimepack.Microsoft.NETCore.App.Runtime.win-x64/3.1.12": {
         "runtime": {
           "Microsoft.Win32.Primitives.dll": {
             "assemblyVersion": "4.1.2.0",
-            "fileVersion": "4.700.19.60801"
+            "fileVersion": "4.700.21.6905"
           },
           "Microsoft.Win32.Registry.dll": {
             "assemblyVersion": "4.1.3.0",
-            "fileVersion": "4.700.19.60801"
+            "fileVersion": "4.700.21.6905"
           },
           "System.Collections.Concurrent.dll": {
             "assemblyVersion": "4.0.15.0",
-            "fileVersion": "4.700.19.60801"
+            "fileVersion": "4.700.21.6905"
+          },
+          "System.Collections.Immutable.dll": {
+            "assemblyVersion": "1.2.5.0",
+            "fileVersion": "4.700.21.6905"
           },
           "System.Collections.NonGeneric.dll": {
             "assemblyVersion": "4.1.2.0",
-            "fileVersion": "4.700.19.60801"
+            "fileVersion": "4.700.21.6905"
           },
           "System.Collections.Specialized.dll": {
             "assemblyVersion": "4.1.2.0",
-            "fileVersion": "4.700.19.60801"
+            "fileVersion": "4.700.21.6905"
           },
           "System.Collections.dll": {
             "assemblyVersion": "4.1.2.0",
-            "fileVersion": "4.700.19.60801"
+            "fileVersion": "4.700.21.6905"
           },
           "System.ComponentModel.Primitives.dll": {
             "assemblyVersion": "4.2.2.0",
-            "fileVersion": "4.700.19.60801"
+            "fileVersion": "4.700.21.6905"
           },
           "System.ComponentModel.TypeConverter.dll": {
             "assemblyVersion": "4.2.2.0",
-            "fileVersion": "4.700.19.60801"
+            "fileVersion": "4.700.21.6905"
           },
           "System.ComponentModel.dll": {
             "assemblyVersion": "4.0.4.0",
-            "fileVersion": "4.700.19.60801"
+            "fileVersion": "4.700.21.6905"
           },
           "System.Console.dll": {
             "assemblyVersion": "4.1.2.0",
-            "fileVersion": "4.700.19.60801"
+            "fileVersion": "4.700.21.6905"
           },
           "System.Diagnostics.Process.dll": {
             "assemblyVersion": "4.2.2.0",
-            "fileVersion": "4.700.19.60801"
+            "fileVersion": "4.700.21.6905"
           },
           "System.Diagnostics.StackTrace.dll": {
             "assemblyVersion": "4.1.2.0",
-            "fileVersion": "4.700.19.60801"
+            "fileVersion": "4.700.21.6905"
           },
           "System.Diagnostics.Tools.dll": {
             "assemblyVersion": "4.1.2.0",
-            "fileVersion": "4.700.19.60801"
+            "fileVersion": "4.700.21.6905"
           },
           "System.Diagnostics.TraceSource.dll": {
             "assemblyVersion": "4.1.2.0",
-            "fileVersion": "4.700.19.60801"
+            "fileVersion": "4.700.21.6905"
           },
           "System.Drawing.Primitives.dll": {
             "assemblyVersion": "4.2.1.0",
-            "fileVersion": "4.700.19.60801"
+            "fileVersion": "4.700.21.6905"
+          },
+          "System.IO.Compression.dll": {
+            "assemblyVersion": "4.2.2.0",
+            "fileVersion": "4.700.21.6905"
           },
           "System.IO.FileSystem.Watcher.dll": {
             "assemblyVersion": "4.1.2.0",
-            "fileVersion": "4.700.19.60801"
+            "fileVersion": "4.700.21.6905"
           },
           "System.IO.FileSystem.dll": {
             "assemblyVersion": "4.1.2.0",
-            "fileVersion": "4.700.19.60801"
+            "fileVersion": "4.700.21.6905"
+          },
+          "System.IO.MemoryMappedFiles.dll": {
+            "assemblyVersion": "4.1.2.0",
+            "fileVersion": "4.700.21.6905"
           },
           "System.Linq.Expressions.dll": {
             "assemblyVersion": "4.2.2.0",
-            "fileVersion": "4.700.19.60801"
+            "fileVersion": "4.700.21.6905"
           },
           "System.Linq.dll": {
             "assemblyVersion": "4.2.2.0",
-            "fileVersion": "4.700.19.60801"
+            "fileVersion": "4.700.21.6905"
           },
           "System.Memory.dll": {
             "assemblyVersion": "4.2.1.0",
-            "fileVersion": "4.700.19.60801"
+            "fileVersion": "4.700.21.6905"
           },
           "System.ObjectModel.dll": {
             "assemblyVersion": "4.1.2.0",
-            "fileVersion": "4.700.19.60801"
+            "fileVersion": "4.700.21.6905"
           },
           "System.Private.Uri.dll": {
             "assemblyVersion": "4.0.6.0",
-            "fileVersion": "4.700.19.60801"
+            "fileVersion": "4.700.21.6905"
           },
           "System.Reflection.Metadata.dll": {
             "assemblyVersion": "1.4.5.0",
-            "fileVersion": "4.700.19.60801"
+            "fileVersion": "4.700.21.6905"
           },
           "System.Runtime.CompilerServices.Unsafe.dll": {
             "assemblyVersion": "4.0.6.0",
-            "fileVersion": "4.700.19.60801"
+            "fileVersion": "4.700.21.6905"
           },
           "System.Runtime.Extensions.dll": {
             "assemblyVersion": "4.2.2.0",
-            "fileVersion": "4.700.19.60801"
+            "fileVersion": "4.700.21.6905"
           },
           "System.Runtime.InteropServices.RuntimeInformation.dll": {
             "assemblyVersion": "4.0.4.0",
-            "fileVersion": "4.700.19.60801"
+            "fileVersion": "4.700.21.6905"
           },
           "System.Runtime.InteropServices.dll": {
             "assemblyVersion": "4.2.2.0",
-            "fileVersion": "4.700.19.60801"
+            "fileVersion": "4.700.21.6905"
           },
           "System.Runtime.Serialization.Formatters.dll": {
             "assemblyVersion": "4.0.4.0",
-            "fileVersion": "4.700.19.60801"
+            "fileVersion": "4.700.21.6905"
           },
           "System.Runtime.dll": {
             "assemblyVersion": "4.2.2.0",
-            "fileVersion": "4.700.19.60801"
+            "fileVersion": "4.700.21.6905"
           },
           "System.Security.Cryptography.Algorithms.dll": {
             "assemblyVersion": "4.3.2.0",
-            "fileVersion": "4.700.19.60801"
+            "fileVersion": "4.700.21.6905"
           },
           "System.Security.Cryptography.Primitives.dll": {
             "assemblyVersion": "4.1.2.0",
-            "fileVersion": "4.700.19.60801"
+            "fileVersion": "4.700.21.6905"
           },
           "System.Security.Principal.Windows.dll": {
             "assemblyVersion": "4.1.3.0",
-            "fileVersion": "4.700.19.60801"
+            "fileVersion": "4.700.21.6905"
           },
           "System.Text.Encodings.Web.dll": {
             "assemblyVersion": "4.0.5.0",
-            "fileVersion": "4.700.19.60801"
+            "fileVersion": "4.700.21.6905"
           },
           "System.Text.Json.dll": {
-            "assemblyVersion": "4.0.1.0",
-            "fileVersion": "4.700.19.60801"
+            "assemblyVersion": "4.0.1.2",
+            "fileVersion": "4.700.21.6905"
           }
         },
         "native": {
@@ -165,7 +177,7 @@
           },
           "System.Private.CoreLib.dll": {
             "assemblyVersion": "4.0.0.0",
-            "fileVersion": "4.700.19.60701"
+            "fileVersion": "4.700.21.6504"
           },
           "api-ms-win-core-console-l1-1-0.dll": {
             "fileVersion": "10.0.17134.12"
@@ -288,40 +300,40 @@
             "fileVersion": "10.0.17134.12"
           },
           "clrcompression.dll": {
-            "fileVersion": "4.700.19.60801"
+            "fileVersion": "4.700.21.6905"
           },
           "clretwrc.dll": {
-            "fileVersion": "4.700.19.60701"
+            "fileVersion": "4.700.21.6504"
           },
           "clrjit.dll": {
-            "fileVersion": "4.700.19.60701"
+            "fileVersion": "4.700.21.6504"
           },
           "coreclr.dll": {
-            "fileVersion": "4.700.19.60701"
+            "fileVersion": "4.700.21.6504"
           },
           "dbgshim.dll": {
-            "fileVersion": "4.700.19.60701"
+            "fileVersion": "4.700.21.6504"
           },
           "hostfxr.dll": {
-            "fileVersion": "3.100.119.60804"
+            "fileVersion": "3.100.1221.6909"
           },
           "hostpolicy.dll": {
-            "fileVersion": "3.100.119.60804"
+            "fileVersion": "3.100.1221.6909"
           },
           "mscordaccore.dll": {
-            "fileVersion": "4.700.19.60701"
+            "fileVersion": "4.700.21.6504"
           },
-          "mscordaccore_amd64_amd64_4.700.19.60701.dll": {
-            "fileVersion": "4.700.19.60701"
+          "mscordaccore_amd64_amd64_4.700.21.6504.dll": {
+            "fileVersion": "4.700.21.6504"
           },
           "mscordbi.dll": {
-            "fileVersion": "4.700.19.60701"
+            "fileVersion": "4.700.21.6504"
           },
           "mscorrc.debug.dll": {
-            "fileVersion": "4.700.19.60701"
+            "fileVersion": "4.700.21.6504"
           },
           "mscorrc.dll": {
-            "fileVersion": "4.700.19.60701"
+            "fileVersion": "4.700.21.6504"
           },
           "ucrtbase.dll": {
             "fileVersion": "10.0.17134.12"
@@ -678,7 +690,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "runtimepack.Microsoft.NETCore.App.Runtime.win-x64/3.1.1": {
+    "runtimepack.Microsoft.NETCore.App.Runtime.win-x64/3.1.12": {
       "type": "runtimepack",
       "serviceable": false,
       "sha512": ""
@@ -907,5 +919,132 @@
       "path": "system.serviceprocess.servicecontroller/4.7.0",
       "hashPath": "system.serviceprocess.servicecontroller.4.7.0.nupkg.sha512"
     }
+  },
+  "runtimes": {
+    "win-x64": [
+      "win",
+      "any",
+      "base"
+    ],
+    "win-x64-aot": [
+      "win-aot",
+      "win-x64",
+      "win",
+      "aot",
+      "any",
+      "base"
+    ],
+    "win10-x64": [
+      "win10",
+      "win81-x64",
+      "win81",
+      "win8-x64",
+      "win8",
+      "win7-x64",
+      "win7",
+      "win-x64",
+      "win",
+      "any",
+      "base"
+    ],
+    "win10-x64-aot": [
+      "win10-aot",
+      "win10-x64",
+      "win10",
+      "win81-x64-aot",
+      "win81-aot",
+      "win81-x64",
+      "win81",
+      "win8-x64-aot",
+      "win8-aot",
+      "win8-x64",
+      "win8",
+      "win7-x64-aot",
+      "win7-aot",
+      "win7-x64",
+      "win7",
+      "win-x64-aot",
+      "win-aot",
+      "win-x64",
+      "win",
+      "aot",
+      "any",
+      "base"
+    ],
+    "win7-x64": [
+      "win7",
+      "win-x64",
+      "win",
+      "any",
+      "base"
+    ],
+    "win7-x64-aot": [
+      "win7-aot",
+      "win7-x64",
+      "win7",
+      "win-x64-aot",
+      "win-aot",
+      "win-x64",
+      "win",
+      "aot",
+      "any",
+      "base"
+    ],
+    "win8-x64": [
+      "win8",
+      "win7-x64",
+      "win7",
+      "win-x64",
+      "win",
+      "any",
+      "base"
+    ],
+    "win8-x64-aot": [
+      "win8-aot",
+      "win8-x64",
+      "win8",
+      "win7-x64-aot",
+      "win7-aot",
+      "win7-x64",
+      "win7",
+      "win-x64-aot",
+      "win-aot",
+      "win-x64",
+      "win",
+      "aot",
+      "any",
+      "base"
+    ],
+    "win81-x64": [
+      "win81",
+      "win8-x64",
+      "win8",
+      "win7-x64",
+      "win7",
+      "win-x64",
+      "win",
+      "any",
+      "base"
+    ],
+    "win81-x64-aot": [
+      "win81-aot",
+      "win81-x64",
+      "win81",
+      "win8-x64-aot",
+      "win8-aot",
+      "win8-x64",
+      "win8",
+      "win7-x64-aot",
+      "win7-aot",
+      "win7-x64",
+      "win7",
+      "win-x64-aot",
+      "win-aot",
+      "win-x64",
+      "win",
+      "aot",
+      "any",
+      "base"
+    ]
   }
 }
